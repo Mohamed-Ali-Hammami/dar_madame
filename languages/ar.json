@@ -117,7 +117,11 @@
   "bookingModal": {
     "eyebrow": "الحجز",
     "title": "اختر طريقة التواصل معنا",
-    "copy": "هل تريد الحجز عبر Instagram أو Facebook؟ سنرد عليك مباشرة على الصفحة التي تختارها.",
+    "copy": "للحصول على رد أسرع، يرجى التواصل معنا عبر WhatsApp أو البريد الإلكتروني. يمكنك أيضا مراسلتنا على Instagram أو Facebook.",
+    "whatsapp": "WhatsApp",
+    "email": "البريد الإلكتروني",
+    "fast": "رد سريع",
+    "recommended": "موصى به",
     "instagram": "Instagram",
     "facebook": "Facebook",
     "close": "إغلاق"

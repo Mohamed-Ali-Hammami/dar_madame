@@ -618,7 +618,9 @@ blockquote {
 
 .booking-modal-panel {
   position: relative;
-  width: min(560px, 100%);
+  width: min(680px, 100%);
+  max-height: calc(100svh - 40px);
+  overflow: auto;
   background: var(--paper);
   box-shadow: var(--shadow);
   padding: clamp(28px, 5vw, 48px);
@@ -655,6 +657,7 @@ blockquote {
 }
 
 .social-book {
+  position: relative;
   display: grid;
   min-height: 150px;
   place-items: center;
@@ -664,6 +667,25 @@ blockquote {
   color: var(--ink);
   text-align: center;
   transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.preferred-book {
+  border-color: rgba(181, 110, 75, .38);
+  background: #fff9f1;
+  box-shadow: 0 12px 34px rgba(181, 110, 75, .12);
+}
+
+.preferred-label {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: var(--clay);
+  color: var(--white);
+  font-size: .58rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  padding: 6px 8px;
+  text-transform: uppercase;
 }
 
 .social-book:hover {
@@ -686,6 +708,22 @@ blockquote {
   font-size: 2.6rem;
   font-weight: 700;
   line-height: 1;
+}
+
+.whatsapp-icon {
+  border-radius: 50%;
+  background: #25d366;
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: 800;
+}
+
+.email-icon {
+  border-radius: 50%;
+  background: var(--olive-dark);
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 800;
 }
 
 .instagram-icon {
@@ -736,6 +774,11 @@ blockquote {
 .is-rtl .booking-modal-close {
   right: auto;
   left: 14px;
+}
+
+.is-rtl .preferred-label {
+  right: auto;
+  left: 10px;
 }
 
 .is-rtl .room-card li::before {

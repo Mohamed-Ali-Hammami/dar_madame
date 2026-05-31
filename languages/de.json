@@ -117,7 +117,11 @@
   "bookingModal": {
     "eyebrow": "Buchung",
     "title": "Waehlen Sie, wie Sie uns kontaktieren moechten",
-    "copy": "Moechten Sie ueber Instagram oder Facebook buchen? Wir antworten direkt auf der ausgewaehlten Seite.",
+    "copy": "Fuer eine schnellere Antwort kontaktieren Sie uns bitte bevorzugt ueber WhatsApp oder per E-Mail. Sie koennen uns auch auf Instagram oder Facebook schreiben.",
+    "whatsapp": "WhatsApp",
+    "email": "E-Mail",
+    "fast": "Schnelle Antwort",
+    "recommended": "Empfohlen",
     "instagram": "Instagram",
     "facebook": "Facebook",
     "close": "Schliessen"

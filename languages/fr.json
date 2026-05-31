@@ -117,7 +117,11 @@
   "bookingModal": {
     "eyebrow": "Reservation",
     "title": "Choisissez comment nous contacter",
-    "copy": "Voulez-vous reserver via Instagram ou Facebook ? Nous vous repondrons directement sur la page choisie.",
+    "copy": "Pour une reponse rapide, contactez-nous de preference sur WhatsApp ou par email. Vous pouvez aussi nous ecrire sur Instagram ou Facebook.",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "fast": "Reponse rapide",
+    "recommended": "Recommande",
     "instagram": "Instagram",
     "facebook": "Facebook",
     "close": "Fermer"
