@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Dar Madame | Soggiorno privato con piscina",
-    "description": "Dar Madame e un rifugio privato con piscina, architettura in pietra, camere tranquille e accoglienti spazi esterni."
+    "title": "Casa Terra Marre | Soggiorno privato con piscina",
+    "description": "Casa Terra Marre e un rifugio privato con piscina, architettura in pietra, camere tranquille e accoglienti spazi esterni."
   },
   "nav": {
     "rooms": "Camere",
@@ -17,7 +17,7 @@
   },
   "hero": {
     "eyebrow": "Villa privata con piscina",
-    "title": "Dar Madame",
+    "title": "Casa Terra Marre",
     "copy": "Una casa in pietra accogliente per mattine lente, pomeriggi in piscina e notti riposanti.",
     "primary": "Prenota il soggiorno",
     "secondary": "Vedi galleria",
@@ -27,7 +27,7 @@
   "intro": {
     "eyebrow": "Benvenuti",
     "title": "Un rifugio tranquillo per stare insieme, riposare e godersi l'acqua.",
-    "copy": "Dar Madame unisce interni luminosi, una piscina privata, camere silenziose e angoli all'aperto per colazioni, conversazioni e lunghe serate."
+    "copy": "Casa Terra Marre unisce interni luminosi, una piscina privata, camere silenziose e angoli all'aperto per colazioni, conversazioni e lunghe serate."
   },
   "rooms": {
     "eyebrow": "Soggiorna con noi",
@@ -74,7 +74,7 @@
   "quote": {
     "eyebrow": "Nota ospite",
     "text": "\"Una casa tranquilla con tutto a portata di mano: piscina, camere, cucina e angoli soleggiati dove sedersi.\"",
-    "author": "Ospite Dar Madame"
+    "author": "Ospite Casa Terra Marre"
   },
   "services": {
     "eyebrow": "Comfort inclusi",
@@ -110,9 +110,17 @@
   },
   "booking": {
     "eyebrow": "Organizza il soggiorno",
-    "title": "Prenota il tuo rifugio privato a Dar Madame.",
+    "title": "Prenota il tuo rifugio privato a Casa Terra Marre.",
     "copy": "Invia le date e il numero di ospiti. Ti aiuteremo a organizzare un soggiorno rilassato intorno alla piscina.",
     "button": "Richiedi prenotazione"
+  },
+  "bookingModal": {
+    "eyebrow": "Prenotazione",
+    "title": "Scegli come contattarci",
+    "copy": "Vuoi prenotare tramite Instagram o Facebook? Risponderemo direttamente sulla pagina scelta.",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "close": "Chiudi"
   },
   "footer": {
     "copy": "Rifugio privato con piscina, camere accoglienti e vita all'aperto.",
@@ -120,27 +128,27 @@
     "explore": "Esplora",
     "location": "Posizione",
     "mapLink": "Apri in Google Maps",
-    "mapTitle": "Dar Madame su Google Maps"
+    "mapTitle": "Casa Terra Marre vicino a Dar Allouche Beach"
   },
   "images": {
-    "poolFacade": "Facciata in pietra e piscina di Dar Madame",
-    "bedroom": "Camera confortevole a Dar Madame",
-    "interior": "Dettagli interni di Dar Madame",
+    "poolFacade": "Facciata in pietra e piscina di Casa Terra Marre",
+    "bedroom": "Camera confortevole a Casa Terra Marre",
+    "interior": "Dettagli interni di Casa Terra Marre",
     "mainBedroom": "Camera principale con letto matrimoniale",
     "kitchen": "Cucina e zona pranzo",
-    "guestRoom": "Camera ospiti a Dar Madame",
+    "guestRoom": "Camera ospiti a Casa Terra Marre",
     "poolView": "Vista piscina",
     "outdoor": "Area salotto esterna",
     "detail": "Dettaglio interno",
-    "relax": "Angolo relax a Dar Madame",
-    "booking": "Vista esterna di Dar Madame",
-    "gallery1": "Immagine galleria Dar Madame 1",
-    "gallery2": "Immagine galleria Dar Madame 2",
-    "gallery3": "Immagine galleria Dar Madame 3",
-    "gallery4": "Immagine galleria Dar Madame 4",
-    "gallery5": "Immagine galleria Dar Madame 5",
-    "gallery6": "Immagine galleria Dar Madame 6",
-    "gallery7": "Immagine galleria Dar Madame 7",
-    "gallery8": "Immagine galleria Dar Madame 8"
+    "relax": "Angolo relax a Casa Terra Marre",
+    "booking": "Vista esterna di Casa Terra Marre",
+    "gallery1": "Immagine galleria Casa Terra Marre 1",
+    "gallery2": "Immagine galleria Casa Terra Marre 2",
+    "gallery3": "Immagine galleria Casa Terra Marre 3",
+    "gallery4": "Immagine galleria Casa Terra Marre 4",
+    "gallery5": "Immagine galleria Casa Terra Marre 5",
+    "gallery6": "Immagine galleria Casa Terra Marre 6",
+    "gallery7": "Immagine galleria Casa Terra Marre 7",
+    "gallery8": "Immagine galleria Casa Terra Marre 8"
   }
 }

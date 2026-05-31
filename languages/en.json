@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Dar Madame | Private Pool Stay",
-    "description": "Dar Madame is a private pool retreat with warm stone architecture, calm rooms, and generous outdoor spaces."
+    "title": "Casa Terra Marre | Private Pool Stay",
+    "description": "Casa Terra Marre is a private pool retreat with warm stone architecture, calm rooms, and generous outdoor spaces."
   },
   "nav": {
     "rooms": "Rooms",
@@ -17,7 +17,7 @@
   },
   "hero": {
     "eyebrow": "Private pool villa",
-    "title": "Dar Madame",
+    "title": "Casa Terra Marre",
     "copy": "A warm stone hideaway designed for slow mornings, poolside afternoons, and restful nights.",
     "primary": "Book Your Stay",
     "secondary": "View Gallery",
@@ -27,7 +27,7 @@
   "intro": {
     "eyebrow": "Welcome home",
     "title": "A calm retreat made for gathering, resting, and enjoying the water.",
-    "copy": "Dar Madame brings together sunlit interiors, a private pool, quiet bedrooms, and open-air corners for breakfast, conversation, and long evening meals."
+    "copy": "Casa Terra Marre brings together sunlit interiors, a private pool, quiet bedrooms, and open-air corners for breakfast, conversation, and long evening meals."
   },
   "rooms": {
     "eyebrow": "Stay with us",
@@ -74,7 +74,7 @@
   "quote": {
     "eyebrow": "Guest note",
     "text": "\"A peaceful house with everything close at hand: the pool, the rooms, the kitchen, and the sunny places to sit.\"",
-    "author": "Dar Madame guest"
+    "author": "Casa Terra Marre guest"
   },
   "services": {
     "eyebrow": "Included comforts",
@@ -110,9 +110,17 @@
   },
   "booking": {
     "eyebrow": "Plan your stay",
-    "title": "Reserve your private retreat at Dar Madame.",
+    "title": "Reserve your private retreat at Casa Terra Marre.",
     "copy": "Send a message with your dates and group size. We will help you plan a relaxed stay around the pool.",
     "button": "Request Booking"
+  },
+  "bookingModal": {
+    "eyebrow": "Booking",
+    "title": "Choose how to contact us",
+    "copy": "Would you like to book through Instagram or Facebook? We will reply directly on the page you choose.",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "close": "Close"
   },
   "footer": {
     "copy": "Private pool retreat with warm rooms and outdoor living.",
@@ -120,27 +128,27 @@
     "explore": "Explore",
     "location": "Location",
     "mapLink": "Open in Google Maps",
-    "mapTitle": "Dar Madame on Google Maps"
+    "mapTitle": "Casa Terra Marre near Dar Allouche Beach"
   },
   "images": {
-    "poolFacade": "Dar Madame stone facade and pool",
-    "bedroom": "Comfortable bedroom at Dar Madame",
-    "interior": "Interior details at Dar Madame",
+    "poolFacade": "Casa Terra Marre stone facade and pool",
+    "bedroom": "Comfortable bedroom at Casa Terra Marre",
+    "interior": "Interior details at Casa Terra Marre",
     "mainBedroom": "Main bedroom with double bed",
     "kitchen": "Kitchen and dining space",
-    "guestRoom": "Guest room at Dar Madame",
+    "guestRoom": "Guest room at Casa Terra Marre",
     "poolView": "Poolside view",
     "outdoor": "Outdoor seating area",
     "detail": "Interior detail",
-    "relax": "Dar Madame relaxing corner",
-    "booking": "Dar Madame exterior view",
-    "gallery1": "Dar Madame gallery image 1",
-    "gallery2": "Dar Madame gallery image 2",
-    "gallery3": "Dar Madame gallery image 3",
-    "gallery4": "Dar Madame gallery image 4",
-    "gallery5": "Dar Madame gallery image 5",
-    "gallery6": "Dar Madame gallery image 6",
-    "gallery7": "Dar Madame gallery image 7",
-    "gallery8": "Dar Madame gallery image 8"
+    "relax": "Casa Terra Marre relaxing corner",
+    "booking": "Casa Terra Marre exterior view",
+    "gallery1": "Casa Terra Marre gallery image 1",
+    "gallery2": "Casa Terra Marre gallery image 2",
+    "gallery3": "Casa Terra Marre gallery image 3",
+    "gallery4": "Casa Terra Marre gallery image 4",
+    "gallery5": "Casa Terra Marre gallery image 5",
+    "gallery6": "Casa Terra Marre gallery image 6",
+    "gallery7": "Casa Terra Marre gallery image 7",
+    "gallery8": "Casa Terra Marre gallery image 8"
   }
 }

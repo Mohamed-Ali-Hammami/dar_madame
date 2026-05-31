@@ -2,6 +2,10 @@ const header = document.querySelector("[data-header]");
 const nav = document.querySelector("[data-nav]");
 const navToggle = document.querySelector("[data-nav-toggle]");
 const languageSelect = document.querySelector("[data-language-select]");
+const heroVideo = document.querySelector(".hero-media");
+const bookingModal = document.querySelector("[data-booking-modal]");
+const bookingTriggers = document.querySelectorAll("[data-booking-trigger]");
+const bookingCloseButtons = document.querySelectorAll("[data-booking-close]");
 
 const DEFAULT_LANGUAGE = "fr";
 const SUPPORTED_LANGUAGES = ["fr", "en", "ar", "de", "it"];
@@ -20,6 +24,18 @@ const closeNav = () => {
   header.classList.remove("is-open");
   navToggle.setAttribute("aria-expanded", "false");
   navToggle.setAttribute("aria-label", getValue(activeTranslations, "nav.openMenu") || "Ouvrir le menu");
+};
+
+const openBookingModal = () => {
+  bookingModal.hidden = false;
+  document.body.classList.add("is-modal-open");
+  closeNav();
+  bookingModal.querySelector("[data-booking-close]")?.focus();
+};
+
+const closeBookingModal = () => {
+  bookingModal.hidden = true;
+  document.body.classList.remove("is-modal-open");
 };
 
 const applyTranslations = (translations, language) => {
@@ -60,7 +76,7 @@ const loadLanguage = async (language) => {
 
     const translations = await response.json();
     applyTranslations(translations, nextLanguage);
-    localStorage.setItem("darMadameLanguage", nextLanguage);
+    localStorage.setItem("casaTerraMarreLanguage", nextLanguage);
     languageSelect.value = nextLanguage;
   } catch (error) {
     console.warn(error);
@@ -70,6 +86,14 @@ const loadLanguage = async (language) => {
 
 syncHeader();
 window.addEventListener("scroll", syncHeader, { passive: true });
+
+if (heroVideo) {
+  heroVideo.muted = true;
+  heroVideo.load();
+  heroVideo.play().catch(() => {
+    heroVideo.addEventListener("canplay", () => heroVideo.play(), { once: true });
+  });
+}
 
 navToggle.addEventListener("click", () => {
   const isOpen = nav.classList.toggle("is-open");
@@ -89,9 +113,23 @@ nav.addEventListener("click", (event) => {
   }
 });
 
+bookingTriggers.forEach((trigger) => {
+  trigger.addEventListener("click", openBookingModal);
+});
+
+bookingCloseButtons.forEach((button) => {
+  button.addEventListener("click", closeBookingModal);
+});
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && !bookingModal.hidden) {
+    closeBookingModal();
+  }
+});
+
 languageSelect.addEventListener("change", (event) => {
   loadLanguage(event.target.value);
   closeNav();
 });
 
-loadLanguage(localStorage.getItem("darMadameLanguage") || DEFAULT_LANGUAGE);
+loadLanguage(localStorage.getItem("casaTerraMarreLanguage") || DEFAULT_LANGUAGE);

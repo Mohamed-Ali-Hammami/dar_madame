@@ -3,18 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title data-i18n="meta.title">Dar Madame | Sejour prive avec piscine</title>
-  <meta name="description" data-i18n-attr="content:meta.description" content="Dar Madame est une retraite privee avec piscine, architecture en pierre, chambres calmes et espaces exterieurs chaleureux.">
+  <title data-i18n="meta.title">Casa Terra Marre | Sejour prive avec piscine</title>
+  <meta name="description" data-i18n-attr="content:meta.description" content="Casa Terra Marre est une retraite privee avec piscine, architecture en pierre, chambres calmes et espaces exterieurs chaleureux.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="dar_madame_img/img_1.jpeg" as="image">
+  <link rel="preload" href="dar_madame_img/video_pool_hero.mp4" as="video" type="video/mp4">
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="site-header" data-header>
-    <a class="brand" href="#home" aria-label="Dar Madame home">
-      <span>Dar</span>
-      <strong>Madame</strong>
+    <a class="brand" href="#home" aria-label="Casa Terra Marre home">
+      <span>Casa</span>
+      <strong>Terra Marre</strong>
     </a>
 
     <button class="nav-toggle" type="button" aria-label="Ouvrir le menu" aria-expanded="false" data-nav-toggle data-i18n-attr="aria-label:nav.openMenu">
@@ -38,20 +40,22 @@
           <option value="it">IT</option>
         </select>
       </label>
-      <a class="nav-book" href="#booking" data-i18n="nav.book">Reserver</a>
+      <button class="nav-book" type="button" data-booking-trigger data-i18n="nav.book">Reserver</button>
     </nav>
   </header>
 
   <main id="home">
     <section class="hero">
-      <video class="hero-media" src="dar_madame_img/video_pool.mp4" autoplay muted loop playsinline poster="dar_madame_img/img_1.jpeg"></video>
+      <video class="hero-media" autoplay muted loop playsinline preload="auto" poster="dar_madame_img/img_1.jpeg">
+        <source src="dar_madame_img/video_pool_hero.mp4" type="video/mp4">
+      </video>
       <div class="hero-shade"></div>
       <div class="hero-content">
         <p class="eyebrow" data-i18n="hero.eyebrow">Villa privee avec piscine</p>
-        <h1 data-i18n="hero.title">Dar Madame</h1>
+        <h1 data-i18n="hero.title">Casa Terra Marre</h1>
         <p class="hero-copy" data-i18n="hero.copy">Une maison en pierre chaleureuse pour les matins tranquilles, les apres-midis au bord de la piscine et les nuits reposantes.</p>
         <div class="hero-actions">
-          <a class="button primary" href="#booking" data-i18n="hero.primary">Reserver votre sejour</a>
+          <button class="button primary" type="button" data-booking-trigger data-i18n="hero.primary">Reserver votre sejour</button>
           <a class="button ghost" href="#gallery" data-i18n="hero.secondary">Voir la galerie</a>
         </div>
       </div>
@@ -62,12 +66,12 @@
       <div class="section-copy">
         <p class="eyebrow" data-i18n="intro.eyebrow">Bienvenue</p>
         <h2 data-i18n="intro.title">Une retraite calme pour se reunir, se reposer et profiter de l'eau.</h2>
-        <p data-i18n="intro.copy">Dar Madame rassemble des interieurs lumineux, une piscine privee, des chambres paisibles et des coins exterieurs pour le petit-dejeuner, les conversations et les longues soirees.</p>
+        <p data-i18n="intro.copy">Casa Terra Marre rassemble des interieurs lumineux, une piscine privee, des chambres paisibles et des coins exterieurs pour le petit-dejeuner, les conversations et les longues soirees.</p>
       </div>
       <div class="image-cluster">
-        <img src="dar_madame_img/img_1.jpeg" alt="Facade en pierre et piscine de Dar Madame" data-i18n-attr="alt:images.poolFacade">
-        <img src="dar_madame_img/img_11.jpeg" alt="Chambre confortable a Dar Madame" data-i18n-attr="alt:images.bedroom">
-        <img src="dar_madame_img/img_3.jpeg" alt="Details interieurs de Dar Madame" data-i18n-attr="alt:images.interior">
+        <img src="dar_madame_img/img_1.jpeg" alt="Facade en pierre et piscine de Casa Terra Marre" data-i18n-attr="alt:images.poolFacade">
+        <img src="dar_madame_img/img_11.jpeg" alt="Chambre confortable a Casa Terra Marre" data-i18n-attr="alt:images.bedroom">
+        <img src="dar_madame_img/img_3.jpeg" alt="Details interieurs de Casa Terra Marre" data-i18n-attr="alt:images.interior">
       </div>
     </section>
 
@@ -75,7 +79,7 @@
       <div class="section-heading">
         <p class="eyebrow" data-i18n="rooms.eyebrow">Sejourner chez nous</p>
         <h2 data-i18n="rooms.title">Chambres & Espaces</h2>
-        <a class="text-link" href="#booking" data-i18n="rooms.availability">Voir les disponibilites</a>
+        <button class="text-link" type="button" data-booking-trigger data-i18n="rooms.availability">Voir les disponibilites</button>
       </div>
 
       <div class="room-grid">
@@ -106,7 +110,7 @@
         </article>
 
         <article class="room-card">
-          <img src="dar_madame_img/img_14.jpeg" alt="Chambre invite a Dar Madame" data-i18n-attr="alt:images.guestRoom">
+          <img src="dar_madame_img/img_14.jpeg" alt="Chambre invite a Casa Terra Marre" data-i18n-attr="alt:images.guestRoom">
           <div>
             <h3 data-i18n="rooms.guest.title">Chambres invites</h3>
             <ul>
@@ -148,9 +152,9 @@
       <div>
         <p class="eyebrow" data-i18n="quote.eyebrow">Avis client</p>
         <blockquote data-i18n="quote.text">"Une maison paisible ou tout est a portee de main : la piscine, les chambres, la cuisine et les coins ensoleilles pour s'asseoir."</blockquote>
-        <span data-i18n="quote.author">Client Dar Madame</span>
+        <span data-i18n="quote.author">Client Casa Terra Marre</span>
       </div>
-      <img src="dar_madame_img/img_7.jpeg" alt="Coin detente a Dar Madame" data-i18n-attr="alt:images.relax">
+      <img src="dar_madame_img/img_7.jpeg" alt="Coin detente a Casa Terra Marre" data-i18n-attr="alt:images.relax">
     </section>
 
     <section class="services section" id="services">
@@ -198,24 +202,24 @@
         <h2 data-i18n="gallery.title">Galerie</h2>
       </div>
       <div class="gallery-grid">
-        <img src="dar_madame_img/img_19.jpeg" alt="Image galerie Dar Madame 1" data-i18n-attr="alt:images.gallery1">
-        <img src="dar_madame_img/img_9.jpeg" alt="Image galerie Dar Madame 2" data-i18n-attr="alt:images.gallery2">
-        <img src="dar_madame_img/img_12.jpeg" alt="Image galerie Dar Madame 3" data-i18n-attr="alt:images.gallery3">
-        <img src="dar_madame_img/img_13.jpeg" alt="Image galerie Dar Madame 4" data-i18n-attr="alt:images.gallery4">
-        <img src="dar_madame_img/img_15.jpeg" alt="Image galerie Dar Madame 5" data-i18n-attr="alt:images.gallery5">
-        <img src="dar_madame_img/img_16.jpeg" alt="Image galerie Dar Madame 6" data-i18n-attr="alt:images.gallery6">
-        <img src="dar_madame_img/img_17.jpeg" alt="Image galerie Dar Madame 7" data-i18n-attr="alt:images.gallery7">
-        <img src="dar_madame_img/img_18.jpeg" alt="Image galerie Dar Madame 8" data-i18n-attr="alt:images.gallery8">
+        <img src="dar_madame_img/img_19.jpeg" alt="Image galerie Casa Terra Marre 1" data-i18n-attr="alt:images.gallery1">
+        <img src="dar_madame_img/img_9.jpeg" alt="Image galerie Casa Terra Marre 2" data-i18n-attr="alt:images.gallery2">
+        <img src="dar_madame_img/img_12.jpeg" alt="Image galerie Casa Terra Marre 3" data-i18n-attr="alt:images.gallery3">
+        <img src="dar_madame_img/img_13.jpeg" alt="Image galerie Casa Terra Marre 4" data-i18n-attr="alt:images.gallery4">
+        <img src="dar_madame_img/img_15.jpeg" alt="Image galerie Casa Terra Marre 5" data-i18n-attr="alt:images.gallery5">
+        <img src="dar_madame_img/img_16.jpeg" alt="Image galerie Casa Terra Marre 6" data-i18n-attr="alt:images.gallery6">
+        <img src="dar_madame_img/img_17.jpeg" alt="Image galerie Casa Terra Marre 7" data-i18n-attr="alt:images.gallery7">
+        <img src="dar_madame_img/img_18.jpeg" alt="Image galerie Casa Terra Marre 8" data-i18n-attr="alt:images.gallery8">
       </div>
     </section>
 
     <section class="booking" id="booking">
-      <img src="dar_madame_img/img_20.jpeg" alt="Vue exterieure de Dar Madame" data-i18n-attr="alt:images.booking">
+      <img src="dar_madame_img/img_20.jpeg" alt="Vue exterieure de Casa Terra Marre" data-i18n-attr="alt:images.booking">
       <div>
         <p class="eyebrow" data-i18n="booking.eyebrow">Planifier votre sejour</p>
-        <h2 data-i18n="booking.title">Reservez votre retraite privee a Dar Madame.</h2>
+        <h2 data-i18n="booking.title">Reservez votre retraite privee a Casa Terra Marre.</h2>
         <p data-i18n="booking.copy">Envoyez vos dates et la taille de votre groupe. Nous vous aiderons a organiser un sejour detendu autour de la piscine.</p>
-        <a class="button primary" href="mailto:contact@darmadame.com?subject=Booking%20request%20for%20Dar%20Madame" data-i18n="booking.button">Demander une reservation</a>
+        <button class="button primary" type="button" data-booking-trigger data-i18n="booking.button">Demander une reservation</button>
       </div>
     </section>
   </main>
@@ -223,28 +227,51 @@
   <footer class="footer" id="contact">
     <div>
       <a class="brand footer-brand" href="#home">
-        <span>Dar</span>
-        <strong>Madame</strong>
+        <span>Casa</span>
+        <strong>Terra Marre</strong>
       </a>
       <p data-i18n="footer.copy">Retraite privee avec piscine, chambres chaleureuses et vie exterieure.</p>
     </div>
     <div>
       <h2 data-i18n="footer.contact">Contact</h2>
-      <a href="mailto:contact@darmadame.com">contact@darmadame.com</a>
-      <a href="tel:+212000000000">+212 000 000 000</a>
+      <a href="mailto:rimrima9510@gmail.com">rimrima9510@gmail.com</a>
+      <a href="tel:+33634375830">+33 634 375 830</a>
+      <a href="tel:+21626433071">+216 26 433 071</a>
     </div>
     <div>
       <h2 data-i18n="footer.explore">Explorer</h2>
       <a href="#rooms" data-i18n="nav.rooms">Chambres</a>
       <a href="#gallery" data-i18n="nav.gallery">Galerie</a>
-      <a href="#booking" data-i18n="nav.book">Reserver</a>
+      <button class="footer-link-button" type="button" data-booking-trigger data-i18n="nav.book">Reserver</button>
     </div>
     <div class="footer-location">
       <h2 data-i18n="footer.location">Localisation</h2>
-      <a href="https://www.google.com/maps/search/?api=1&query=Dar%20Madame%20Morocco" target="_blank" rel="noopener" data-i18n="footer.mapLink">Ouvrir dans Google Maps</a>
-      <iframe title="Dar Madame sur Google Maps" data-i18n-attr="title:footer.mapTitle" src="https://www.google.com/maps?q=Dar%20Madame%20Morocco&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <a href="https://www.google.com/maps/place/Dar+Allouche+Beach/@36.9850694,11.0736603,14.83z/data=!4m6!3m5!1s0x131d3be7f0a82e77:0x229de2c70f96b901!8m2!3d36.9824658!4d11.0772624!16s%2Fg%2F11g232m2zw?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener" data-i18n="footer.mapLink">Ouvrir dans Google Maps</a>
+      <iframe title="Casa Terra Marre pres de Dar Allouche Beach" data-i18n-attr="title:footer.mapTitle" src="https://www.google.com/maps?q=36.9824658,11.0772624&z=15&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </footer>
+
+  <div class="booking-modal" role="dialog" aria-modal="true" aria-labelledby="booking-modal-title" hidden data-booking-modal>
+    <div class="booking-modal-backdrop" data-booking-close></div>
+    <div class="booking-modal-panel">
+      <button class="booking-modal-close" type="button" aria-label="Fermer" data-booking-close data-i18n-attr="aria-label:bookingModal.close">×</button>
+      <p class="eyebrow" data-i18n="bookingModal.eyebrow">Reservation</p>
+      <h2 id="booking-modal-title" data-i18n="bookingModal.title">Choisissez comment nous contacter</h2>
+      <p data-i18n="bookingModal.copy">Voulez-vous reserver via Instagram ou Facebook ? Nous vous repondrons directement sur la page choisie.</p>
+      <div class="booking-socials">
+        <a class="social-book instagram-book" href="https://ig.me/m/casa_terra_marre" target="_blank" rel="noopener" data-booking-close>
+          <span class="social-icon instagram-icon" aria-hidden="true">
+            <span></span>
+          </span>
+          <strong data-i18n="bookingModal.instagram">Instagram</strong>
+        </a>
+        <a class="social-book facebook-book" href="https://www.facebook.com/share/1DyrPFJGYq/" target="_blank" rel="noopener" data-booking-close>
+          <span class="social-icon facebook-icon" aria-hidden="true">f</span>
+          <strong data-i18n="bookingModal.facebook">Facebook</strong>
+        </a>
+      </div>
+    </div>
+  </div>
 
   <script src="script.js"></script>
 </body>

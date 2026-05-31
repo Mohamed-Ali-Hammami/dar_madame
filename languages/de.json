@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Dar Madame | Privater Aufenthalt mit Pool",
-    "description": "Dar Madame ist ein privater Rueckzugsort mit Pool, warmer Steinarchitektur, ruhigen Zimmern und grosszuegigen Aussenbereichen."
+    "title": "Casa Terra Marre | Privater Aufenthalt mit Pool",
+    "description": "Casa Terra Marre ist ein privater Rueckzugsort mit Pool, warmer Steinarchitektur, ruhigen Zimmern und grosszuegigen Aussenbereichen."
   },
   "nav": {
     "rooms": "Zimmer",
@@ -17,7 +17,7 @@
   },
   "hero": {
     "eyebrow": "Private Villa mit Pool",
-    "title": "Dar Madame",
+    "title": "Casa Terra Marre",
     "copy": "Ein warmes Steinhaus fuer ruhige Morgen, Nachmittage am Pool und erholsame Naechte.",
     "primary": "Aufenthalt buchen",
     "secondary": "Galerie ansehen",
@@ -27,7 +27,7 @@
   "intro": {
     "eyebrow": "Willkommen",
     "title": "Ein ruhiger Rueckzugsort zum Zusammensein, Ausruhen und Geniessen des Wassers.",
-    "copy": "Dar Madame verbindet helle Innenraeume, einen privaten Pool, ruhige Schlafzimmer und Aussenbereiche fuer Fruehstueck, Gespraeche und lange Abende."
+    "copy": "Casa Terra Marre verbindet helle Innenraeume, einen privaten Pool, ruhige Schlafzimmer und Aussenbereiche fuer Fruehstueck, Gespraeche und lange Abende."
   },
   "rooms": {
     "eyebrow": "Bei uns wohnen",
@@ -74,7 +74,7 @@
   "quote": {
     "eyebrow": "Gaestenotiz",
     "text": "\"Ein friedliches Haus, in dem alles nah ist: Pool, Zimmer, Kueche und sonnige Plaetze zum Sitzen.\"",
-    "author": "Gast von Dar Madame"
+    "author": "Gast von Casa Terra Marre"
   },
   "services": {
     "eyebrow": "Inklusive Komforts",
@@ -110,9 +110,17 @@
   },
   "booking": {
     "eyebrow": "Aufenthalt planen",
-    "title": "Reservieren Sie Ihren privaten Rueckzugsort im Dar Madame.",
+    "title": "Reservieren Sie Ihren privaten Rueckzugsort im Casa Terra Marre.",
     "copy": "Senden Sie uns Ihre Daten und die Gruppengroesse. Wir helfen Ihnen, einen entspannten Aufenthalt am Pool zu planen.",
     "button": "Buchung anfragen"
+  },
+  "bookingModal": {
+    "eyebrow": "Buchung",
+    "title": "Waehlen Sie, wie Sie uns kontaktieren moechten",
+    "copy": "Moechten Sie ueber Instagram oder Facebook buchen? Wir antworten direkt auf der ausgewaehlten Seite.",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "close": "Schliessen"
   },
   "footer": {
     "copy": "Privater Rueckzugsort mit Pool, warmen Zimmern und Leben im Freien.",
@@ -120,27 +128,27 @@
     "explore": "Entdecken",
     "location": "Standort",
     "mapLink": "In Google Maps oeffnen",
-    "mapTitle": "Dar Madame auf Google Maps"
+    "mapTitle": "Casa Terra Marre nahe Dar Allouche Beach"
   },
   "images": {
-    "poolFacade": "Steinfassade und Pool von Dar Madame",
-    "bedroom": "Komfortables Schlafzimmer im Dar Madame",
-    "interior": "Innendetails im Dar Madame",
+    "poolFacade": "Steinfassade und Pool von Casa Terra Marre",
+    "bedroom": "Komfortables Schlafzimmer im Casa Terra Marre",
+    "interior": "Innendetails im Casa Terra Marre",
     "mainBedroom": "Hauptschlafzimmer mit Doppelbett",
     "kitchen": "Kueche und Essbereich",
-    "guestRoom": "Gaestezimmer im Dar Madame",
+    "guestRoom": "Gaestezimmer im Casa Terra Marre",
     "poolView": "Blick auf den Pool",
     "outdoor": "Aussenbereich mit Sitzplatz",
     "detail": "Innendetail",
-    "relax": "Entspannungsecke im Dar Madame",
-    "booking": "Aussenansicht von Dar Madame",
-    "gallery1": "Galeriebild Dar Madame 1",
-    "gallery2": "Galeriebild Dar Madame 2",
-    "gallery3": "Galeriebild Dar Madame 3",
-    "gallery4": "Galeriebild Dar Madame 4",
-    "gallery5": "Galeriebild Dar Madame 5",
-    "gallery6": "Galeriebild Dar Madame 6",
-    "gallery7": "Galeriebild Dar Madame 7",
-    "gallery8": "Galeriebild Dar Madame 8"
+    "relax": "Entspannungsecke im Casa Terra Marre",
+    "booking": "Aussenansicht von Casa Terra Marre",
+    "gallery1": "Galeriebild Casa Terra Marre 1",
+    "gallery2": "Galeriebild Casa Terra Marre 2",
+    "gallery3": "Galeriebild Casa Terra Marre 3",
+    "gallery4": "Galeriebild Casa Terra Marre 4",
+    "gallery5": "Galeriebild Casa Terra Marre 5",
+    "gallery6": "Galeriebild Casa Terra Marre 6",
+    "gallery7": "Galeriebild Casa Terra Marre 7",
+    "gallery8": "Galeriebild Casa Terra Marre 8"
   }
 }
