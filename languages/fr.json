@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "Dar Madame | Sejour prive avec piscine",
+    "description": "Dar Madame est une retraite privee avec piscine, architecture en pierre, chambres calmes et espaces exterieurs chaleureux."
+  },
+  "nav": {
+    "rooms": "Chambres",
+    "experiences": "Experiences",
+    "gallery": "Galerie",
+    "services": "Services",
+    "contact": "Contact",
+    "book": "Reserver",
+    "language": "Langue",
+    "languageLabel": "Choisir la langue",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "hero": {
+    "eyebrow": "Villa privee avec piscine",
+    "title": "Dar Madame",
+    "copy": "Une maison en pierre chaleureuse pour les matins tranquilles, les apres-midis au bord de la piscine et les nuits reposantes.",
+    "primary": "Reserver votre sejour",
+    "secondary": "Voir la galerie",
+    "scroll": "Defiler",
+    "scrollLabel": "Aller a l'introduction"
+  },
+  "intro": {
+    "eyebrow": "Bienvenue",
+    "title": "Une retraite calme pour se reunir, se reposer et profiter de l'eau.",
+    "copy": "Dar Madame rassemble des interieurs lumineux, une piscine privee, des chambres paisibles et des coins exterieurs pour le petit-dejeuner, les conversations et les longues soirees."
+  },
+  "rooms": {
+    "eyebrow": "Sejourner chez nous",
+    "title": "Chambres & Espaces",
+    "availability": "Voir les disponibilites",
+    "main": {
+      "title": "Chambre principale",
+      "feature1": "Lit double",
+      "feature2": "Eclairage doux",
+      "feature3": "Cadre prive et calme",
+      "copy": "Une chambre lumineuse et simple pour bien se reposer apres une journee pres de la piscine."
+    },
+    "kitchen": {
+      "title": "Cuisine & Sejour",
+      "feature1": "Cuisine equipee",
+      "feature2": "Espace repas",
+      "feature3": "Acces direct dehors",
+      "copy": "Des espaces ouverts pour cuisiner, prendre un cafe et profiter ensemble."
+    },
+    "guest": {
+      "title": "Chambres invites",
+      "feature1": "Lits confortables",
+      "feature2": "Finitions modernes",
+      "feature3": "Agencement familial",
+      "copy": "Des chambres flexibles pour couples, amis ou familles."
+    }
+  },
+  "experiences": {
+    "eyebrow": "Se detendre ici",
+    "title": "Piscine, repas partages et soirees calmes",
+    "pool": {
+      "title": "Apres-midis piscine",
+      "copy": "Se rafraichir, profiter du soleil et laisser la journee avancer doucement."
+    },
+    "outdoor": {
+      "title": "Vie exterieure",
+      "copy": "Murs en pierre, coins ombrages et espaces ouverts font de l'exterieur la piece principale."
+    },
+    "comfort": {
+      "title": "Confort simple",
+      "copy": "Tout est pense pour un sejour facile, pratique, confortable et accueillant."
+    }
+  },
+  "quote": {
+    "eyebrow": "Avis client",
+    "text": "\"Une maison paisible ou tout est a portee de main : la piscine, les chambres, la cuisine et les coins ensoleilles pour s'asseoir.\"",
+    "author": "Client Dar Madame"
+  },
+  "services": {
+    "eyebrow": "Confort inclus",
+    "title": "Tous les essentiels pour un sejour chaleureux et confortable.",
+    "pool": {
+      "title": "Piscine privee",
+      "copy": "Une piscine rafraichissante au coeur du sejour."
+    },
+    "kitchen": {
+      "title": "Cuisine equipee",
+      "copy": "Preparez petit-dejeuner, encas ou repas complets a votre rythme."
+    },
+    "dining": {
+      "title": "Repas dehors",
+      "copy": "Des espaces pour les dejeuners lents et les diners faciles."
+    },
+    "bedrooms": {
+      "title": "Chambres calmes",
+      "copy": "Des chambres propres et reposantes avec des touches naturelles."
+    },
+    "family": {
+      "title": "Ideal famille",
+      "copy": "Un agencement pratique pour groupes, couples et familles."
+    },
+    "parking": {
+      "title": "Parking",
+      "copy": "Une arrivee simple et une base confortable pour explorer les environs."
+    }
+  },
+  "gallery": {
+    "eyebrow": "Regarder autour",
+    "title": "Galerie"
+  },
+  "booking": {
+    "eyebrow": "Planifier votre sejour",
+    "title": "Reservez votre retraite privee a Dar Madame.",
+    "copy": "Envoyez vos dates et la taille de votre groupe. Nous vous aiderons a organiser un sejour detendu autour de la piscine.",
+    "button": "Demander une reservation"
+  },
+  "footer": {
+    "copy": "Retraite privee avec piscine, chambres chaleureuses et vie exterieure.",
+    "contact": "Contact",
+    "explore": "Explorer",
+    "location": "Localisation",
+    "mapLink": "Ouvrir dans Google Maps",
+    "mapTitle": "Dar Madame sur Google Maps"
+  },
+  "images": {
+    "poolFacade": "Facade en pierre et piscine de Dar Madame",
+    "bedroom": "Chambre confortable a Dar Madame",
+    "interior": "Details interieurs de Dar Madame",
+    "mainBedroom": "Chambre principale avec lit double",
+    "kitchen": "Cuisine et salle a manger",
+    "guestRoom": "Chambre invite a Dar Madame",
+    "poolView": "Vue de la piscine",
+    "outdoor": "Espace salon exterieur",
+    "detail": "Detail interieur",
+    "relax": "Coin detente a Dar Madame",
+    "booking": "Vue exterieure de Dar Madame",
+    "gallery1": "Image galerie Dar Madame 1",
+    "gallery2": "Image galerie Dar Madame 2",
+    "gallery3": "Image galerie Dar Madame 3",
+    "gallery4": "Image galerie Dar Madame 4",
+    "gallery5": "Image galerie Dar Madame 5",
+    "gallery6": "Image galerie Dar Madame 6",
+    "gallery7": "Image galerie Dar Madame 7",
+    "gallery8": "Image galerie Dar Madame 8"
+  }
+}

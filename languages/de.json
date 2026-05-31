@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "Dar Madame | Privater Aufenthalt mit Pool",
+    "description": "Dar Madame ist ein privater Rueckzugsort mit Pool, warmer Steinarchitektur, ruhigen Zimmern und grosszuegigen Aussenbereichen."
+  },
+  "nav": {
+    "rooms": "Zimmer",
+    "experiences": "Erlebnisse",
+    "gallery": "Galerie",
+    "services": "Services",
+    "contact": "Kontakt",
+    "book": "Buchen",
+    "language": "Sprache",
+    "languageLabel": "Sprache waehlen",
+    "openMenu": "Menue oeffnen",
+    "closeMenu": "Menue schliessen"
+  },
+  "hero": {
+    "eyebrow": "Private Villa mit Pool",
+    "title": "Dar Madame",
+    "copy": "Ein warmes Steinhaus fuer ruhige Morgen, Nachmittage am Pool und erholsame Naechte.",
+    "primary": "Aufenthalt buchen",
+    "secondary": "Galerie ansehen",
+    "scroll": "Scrollen",
+    "scrollLabel": "Zur Einfuehrung scrollen"
+  },
+  "intro": {
+    "eyebrow": "Willkommen",
+    "title": "Ein ruhiger Rueckzugsort zum Zusammensein, Ausruhen und Geniessen des Wassers.",
+    "copy": "Dar Madame verbindet helle Innenraeume, einen privaten Pool, ruhige Schlafzimmer und Aussenbereiche fuer Fruehstueck, Gespraeche und lange Abende."
+  },
+  "rooms": {
+    "eyebrow": "Bei uns wohnen",
+    "title": "Zimmer & Bereiche",
+    "availability": "Verfuegbarkeit pruefen",
+    "main": {
+      "title": "Hauptschlafzimmer",
+      "feature1": "Doppelbett",
+      "feature2": "Sanfte Beleuchtung",
+      "feature3": "Ruhige private Lage",
+      "copy": "Ein helles, schlichtes Zimmer fuer tiefe Erholung nach einem Tag am Pool."
+    },
+    "kitchen": {
+      "title": "Kueche & Wohnen",
+      "feature1": "Ausgestattete Kueche",
+      "feature2": "Essbereich",
+      "feature3": "Direkter Zugang nach draussen",
+      "copy": "Offene Bereiche zum Kochen, Kaffeetrinken und entspannten Beisammensein."
+    },
+    "guest": {
+      "title": "Gaestezimmer",
+      "feature1": "Bequeme Betten",
+      "feature2": "Moderne saubere Ausfuehrung",
+      "feature3": "Familienfreundlicher Grundriss",
+      "copy": "Flexible Zimmer fuer Paare, Freunde oder Familien."
+    }
+  },
+  "experiences": {
+    "eyebrow": "Hier entspannen",
+    "title": "Pooltage, gemeinsame Mahlzeiten und ruhige Abende",
+    "pool": {
+      "title": "Nachmittage am Pool",
+      "copy": "Abkuehlen, Sonne geniessen und den Tag wunderbar langsam angehen."
+    },
+    "outdoor": {
+      "title": "Leben im Freien",
+      "copy": "Steinwaende, schattige Ecken und offene Bereiche machen draussen zum wichtigsten Raum."
+    },
+    "comfort": {
+      "title": "Einfacher Komfort",
+      "copy": "Alles ist fuer einen einfachen, praktischen, komfortablen und herzlichen Aufenthalt vorbereitet."
+    }
+  },
+  "quote": {
+    "eyebrow": "Gaestenotiz",
+    "text": "\"Ein friedliches Haus, in dem alles nah ist: Pool, Zimmer, Kueche und sonnige Plaetze zum Sitzen.\"",
+    "author": "Gast von Dar Madame"
+  },
+  "services": {
+    "eyebrow": "Inklusive Komforts",
+    "title": "Alles Wesentliche fuer einen gemuetlichen und komfortablen Aufenthalt.",
+    "pool": {
+      "title": "Privater Pool",
+      "copy": "Ein erfrischender Pool im Mittelpunkt des Aufenthalts."
+    },
+    "kitchen": {
+      "title": "Ausgestattete Kueche",
+      "copy": "Bereiten Sie Fruehstueck, Snacks oder ganze Mahlzeiten in Ihrem Tempo zu."
+    },
+    "dining": {
+      "title": "Essen im Freien",
+      "copy": "Bereiche fuer langsame Mittagessen und entspannte Abendessen."
+    },
+    "bedrooms": {
+      "title": "Ruhige Schlafzimmer",
+      "copy": "Saubere, erholsame Zimmer mit warmen natuerlichen Details."
+    },
+    "family": {
+      "title": "Familienbereit",
+      "copy": "Ein praktischer Grundriss fuer Gruppen, Paare und Familien."
+    },
+    "parking": {
+      "title": "Parken",
+      "copy": "Einfache Ankunft und eine komfortable Basis, um die Umgebung zu erkunden."
+    }
+  },
+  "gallery": {
+    "eyebrow": "Umschauen",
+    "title": "Galerie"
+  },
+  "booking": {
+    "eyebrow": "Aufenthalt planen",
+    "title": "Reservieren Sie Ihren privaten Rueckzugsort im Dar Madame.",
+    "copy": "Senden Sie uns Ihre Daten und die Gruppengroesse. Wir helfen Ihnen, einen entspannten Aufenthalt am Pool zu planen.",
+    "button": "Buchung anfragen"
+  },
+  "footer": {
+    "copy": "Privater Rueckzugsort mit Pool, warmen Zimmern und Leben im Freien.",
+    "contact": "Kontakt",
+    "explore": "Entdecken",
+    "location": "Standort",
+    "mapLink": "In Google Maps oeffnen",
+    "mapTitle": "Dar Madame auf Google Maps"
+  },
+  "images": {
+    "poolFacade": "Steinfassade und Pool von Dar Madame",
+    "bedroom": "Komfortables Schlafzimmer im Dar Madame",
+    "interior": "Innendetails im Dar Madame",
+    "mainBedroom": "Hauptschlafzimmer mit Doppelbett",
+    "kitchen": "Kueche und Essbereich",
+    "guestRoom": "Gaestezimmer im Dar Madame",
+    "poolView": "Blick auf den Pool",
+    "outdoor": "Aussenbereich mit Sitzplatz",
+    "detail": "Innendetail",
+    "relax": "Entspannungsecke im Dar Madame",
+    "booking": "Aussenansicht von Dar Madame",
+    "gallery1": "Galeriebild Dar Madame 1",
+    "gallery2": "Galeriebild Dar Madame 2",
+    "gallery3": "Galeriebild Dar Madame 3",
+    "gallery4": "Galeriebild Dar Madame 4",
+    "gallery5": "Galeriebild Dar Madame 5",
+    "gallery6": "Galeriebild Dar Madame 6",
+    "gallery7": "Galeriebild Dar Madame 7",
+    "gallery8": "Galeriebild Dar Madame 8"
+  }
+}

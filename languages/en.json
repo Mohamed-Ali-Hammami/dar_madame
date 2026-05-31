@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "Dar Madame | Private Pool Stay",
+    "description": "Dar Madame is a private pool retreat with warm stone architecture, calm rooms, and generous outdoor spaces."
+  },
+  "nav": {
+    "rooms": "Rooms",
+    "experiences": "Experiences",
+    "gallery": "Gallery",
+    "services": "Services",
+    "contact": "Contact",
+    "book": "Book Now",
+    "language": "Language",
+    "languageLabel": "Choose language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Private pool villa",
+    "title": "Dar Madame",
+    "copy": "A warm stone hideaway designed for slow mornings, poolside afternoons, and restful nights.",
+    "primary": "Book Your Stay",
+    "secondary": "View Gallery",
+    "scroll": "Scroll",
+    "scrollLabel": "Scroll to introduction"
+  },
+  "intro": {
+    "eyebrow": "Welcome home",
+    "title": "A calm retreat made for gathering, resting, and enjoying the water.",
+    "copy": "Dar Madame brings together sunlit interiors, a private pool, quiet bedrooms, and open-air corners for breakfast, conversation, and long evening meals."
+  },
+  "rooms": {
+    "eyebrow": "Stay with us",
+    "title": "Rooms & Spaces",
+    "availability": "Check availability",
+    "main": {
+      "title": "Main Bedroom",
+      "feature1": "Double bed",
+      "feature2": "Soft lighting",
+      "feature3": "Quiet private setting",
+      "copy": "A bright, simple bedroom for deep rest after a day by the pool."
+    },
+    "kitchen": {
+      "title": "Kitchen & Living",
+      "feature1": "Equipped kitchen",
+      "feature2": "Dining area",
+      "feature3": "Direct outdoor access",
+      "copy": "Open spaces for cooking, coffee, and relaxed time together."
+    },
+    "guest": {
+      "title": "Guest Rooms",
+      "feature1": "Comfortable beds",
+      "feature2": "Clean modern finishes",
+      "feature3": "Family-friendly layout",
+      "copy": "Flexible rooms that make the house easy for couples, friends, or family."
+    }
+  },
+  "experiences": {
+    "eyebrow": "Unwind here",
+    "title": "Pool Days, Shared Meals, Quiet Evenings",
+    "pool": {
+      "title": "Poolside Afternoons",
+      "copy": "Cool off, stretch out in the sun, and keep the whole day wonderfully unhurried."
+    },
+    "outdoor": {
+      "title": "Outdoor Living",
+      "copy": "Stone walls, shaded corners, and open spaces make the outside feel like the main room."
+    },
+    "comfort": {
+      "title": "Simple Comforts",
+      "copy": "Everything is arranged for an easy stay: practical, comfortable, and welcoming."
+    }
+  },
+  "quote": {
+    "eyebrow": "Guest note",
+    "text": "\"A peaceful house with everything close at hand: the pool, the rooms, the kitchen, and the sunny places to sit.\"",
+    "author": "Dar Madame guest"
+  },
+  "services": {
+    "eyebrow": "Included comforts",
+    "title": "All the essentials for a cozy and comfortable stay.",
+    "pool": {
+      "title": "Private Pool",
+      "copy": "A refreshing pool at the center of the stay."
+    },
+    "kitchen": {
+      "title": "Equipped Kitchen",
+      "copy": "Cook breakfast, snacks, or full meals at your own pace."
+    },
+    "dining": {
+      "title": "Outdoor Dining",
+      "copy": "Spaces made for slow lunches and easy dinners."
+    },
+    "bedrooms": {
+      "title": "Calm Bedrooms",
+      "copy": "Clean, restful rooms with warm natural details."
+    },
+    "family": {
+      "title": "Family Ready",
+      "copy": "A practical layout for groups, couples, and families."
+    },
+    "parking": {
+      "title": "Parking",
+      "copy": "Easy arrival and a comfortable base for exploring nearby."
+    }
+  },
+  "gallery": {
+    "eyebrow": "Look around",
+    "title": "Gallery"
+  },
+  "booking": {
+    "eyebrow": "Plan your stay",
+    "title": "Reserve your private retreat at Dar Madame.",
+    "copy": "Send a message with your dates and group size. We will help you plan a relaxed stay around the pool.",
+    "button": "Request Booking"
+  },
+  "footer": {
+    "copy": "Private pool retreat with warm rooms and outdoor living.",
+    "contact": "Contact",
+    "explore": "Explore",
+    "location": "Location",
+    "mapLink": "Open in Google Maps",
+    "mapTitle": "Dar Madame on Google Maps"
+  },
+  "images": {
+    "poolFacade": "Dar Madame stone facade and pool",
+    "bedroom": "Comfortable bedroom at Dar Madame",
+    "interior": "Interior details at Dar Madame",
+    "mainBedroom": "Main bedroom with double bed",
+    "kitchen": "Kitchen and dining space",
+    "guestRoom": "Guest room at Dar Madame",
+    "poolView": "Poolside view",
+    "outdoor": "Outdoor seating area",
+    "detail": "Interior detail",
+    "relax": "Dar Madame relaxing corner",
+    "booking": "Dar Madame exterior view",
+    "gallery1": "Dar Madame gallery image 1",
+    "gallery2": "Dar Madame gallery image 2",
+    "gallery3": "Dar Madame gallery image 3",
+    "gallery4": "Dar Madame gallery image 4",
+    "gallery5": "Dar Madame gallery image 5",
+    "gallery6": "Dar Madame gallery image 6",
+    "gallery7": "Dar Madame gallery image 7",
+    "gallery8": "Dar Madame gallery image 8"
+  }
+}

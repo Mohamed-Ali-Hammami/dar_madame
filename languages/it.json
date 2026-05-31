@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "Dar Madame | Soggiorno privato con piscina",
+    "description": "Dar Madame e un rifugio privato con piscina, architettura in pietra, camere tranquille e accoglienti spazi esterni."
+  },
+  "nav": {
+    "rooms": "Camere",
+    "experiences": "Esperienze",
+    "gallery": "Galleria",
+    "services": "Servizi",
+    "contact": "Contatti",
+    "book": "Prenota",
+    "language": "Lingua",
+    "languageLabel": "Scegli lingua",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu"
+  },
+  "hero": {
+    "eyebrow": "Villa privata con piscina",
+    "title": "Dar Madame",
+    "copy": "Una casa in pietra accogliente per mattine lente, pomeriggi in piscina e notti riposanti.",
+    "primary": "Prenota il soggiorno",
+    "secondary": "Vedi galleria",
+    "scroll": "Scorri",
+    "scrollLabel": "Vai all'introduzione"
+  },
+  "intro": {
+    "eyebrow": "Benvenuti",
+    "title": "Un rifugio tranquillo per stare insieme, riposare e godersi l'acqua.",
+    "copy": "Dar Madame unisce interni luminosi, una piscina privata, camere silenziose e angoli all'aperto per colazioni, conversazioni e lunghe serate."
+  },
+  "rooms": {
+    "eyebrow": "Soggiorna con noi",
+    "title": "Camere & Spazi",
+    "availability": "Controlla disponibilita",
+    "main": {
+      "title": "Camera principale",
+      "feature1": "Letto matrimoniale",
+      "feature2": "Luce morbida",
+      "feature3": "Ambiente privato e tranquillo",
+      "copy": "Una camera luminosa e semplice per riposare bene dopo una giornata in piscina."
+    },
+    "kitchen": {
+      "title": "Cucina & Soggiorno",
+      "feature1": "Cucina attrezzata",
+      "feature2": "Zona pranzo",
+      "feature3": "Accesso diretto all'esterno",
+      "copy": "Spazi aperti per cucinare, prendere un caffe e rilassarsi insieme."
+    },
+    "guest": {
+      "title": "Camere ospiti",
+      "feature1": "Letti confortevoli",
+      "feature2": "Finiture moderne e pulite",
+      "feature3": "Distribuzione adatta alle famiglie",
+      "copy": "Camere flessibili per coppie, amici o famiglie."
+    }
+  },
+  "experiences": {
+    "eyebrow": "Rilassati qui",
+    "title": "Giornate in piscina, pasti condivisi e serate tranquille",
+    "pool": {
+      "title": "Pomeriggi in piscina",
+      "copy": "Rinfrescati, goditi il sole e lascia che la giornata scorra lentamente."
+    },
+    "outdoor": {
+      "title": "Vita all'aperto",
+      "copy": "Muri in pietra, angoli ombreggiati e spazi aperti fanno dell'esterno la stanza principale."
+    },
+    "comfort": {
+      "title": "Comfort semplice",
+      "copy": "Tutto e organizzato per un soggiorno facile, pratico, confortevole e accogliente."
+    }
+  },
+  "quote": {
+    "eyebrow": "Nota ospite",
+    "text": "\"Una casa tranquilla con tutto a portata di mano: piscina, camere, cucina e angoli soleggiati dove sedersi.\"",
+    "author": "Ospite Dar Madame"
+  },
+  "services": {
+    "eyebrow": "Comfort inclusi",
+    "title": "Tutto l'essenziale per un soggiorno caldo e confortevole.",
+    "pool": {
+      "title": "Piscina privata",
+      "copy": "Una piscina rinfrescante al centro del soggiorno."
+    },
+    "kitchen": {
+      "title": "Cucina attrezzata",
+      "copy": "Prepara colazioni, snack o pasti completi con i tuoi tempi."
+    },
+    "dining": {
+      "title": "Pranzo all'aperto",
+      "copy": "Spazi pensati per pranzi lenti e cene semplici."
+    },
+    "bedrooms": {
+      "title": "Camere tranquille",
+      "copy": "Camere pulite e riposanti con dettagli naturali caldi."
+    },
+    "family": {
+      "title": "Adatto alle famiglie",
+      "copy": "Una disposizione pratica per gruppi, coppie e famiglie."
+    },
+    "parking": {
+      "title": "Parcheggio",
+      "copy": "Arrivo semplice e base comoda per esplorare i dintorni."
+    }
+  },
+  "gallery": {
+    "eyebrow": "Guarda intorno",
+    "title": "Galleria"
+  },
+  "booking": {
+    "eyebrow": "Organizza il soggiorno",
+    "title": "Prenota il tuo rifugio privato a Dar Madame.",
+    "copy": "Invia le date e il numero di ospiti. Ti aiuteremo a organizzare un soggiorno rilassato intorno alla piscina.",
+    "button": "Richiedi prenotazione"
+  },
+  "footer": {
+    "copy": "Rifugio privato con piscina, camere accoglienti e vita all'aperto.",
+    "contact": "Contatti",
+    "explore": "Esplora",
+    "location": "Posizione",
+    "mapLink": "Apri in Google Maps",
+    "mapTitle": "Dar Madame su Google Maps"
+  },
+  "images": {
+    "poolFacade": "Facciata in pietra e piscina di Dar Madame",
+    "bedroom": "Camera confortevole a Dar Madame",
+    "interior": "Dettagli interni di Dar Madame",
+    "mainBedroom": "Camera principale con letto matrimoniale",
+    "kitchen": "Cucina e zona pranzo",
+    "guestRoom": "Camera ospiti a Dar Madame",
+    "poolView": "Vista piscina",
+    "outdoor": "Area salotto esterna",
+    "detail": "Dettaglio interno",
+    "relax": "Angolo relax a Dar Madame",
+    "booking": "Vista esterna di Dar Madame",
+    "gallery1": "Immagine galleria Dar Madame 1",
+    "gallery2": "Immagine galleria Dar Madame 2",
+    "gallery3": "Immagine galleria Dar Madame 3",
+    "gallery4": "Immagine galleria Dar Madame 4",
+    "gallery5": "Immagine galleria Dar Madame 5",
+    "gallery6": "Immagine galleria Dar Madame 6",
+    "gallery7": "Immagine galleria Dar Madame 7",
+    "gallery8": "Immagine galleria Dar Madame 8"
+  }
+}
