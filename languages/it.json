@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Casa Terra Marre | Soggiorno privato con piscina",
-    "description": "Casa Terra Marre e un rifugio privato con piscina, architettura in pietra, camere tranquille e accoglienti spazi esterni."
+    "title": "Casa Terra Mare | Soggiorno privato con piscina",
+    "description": "Casa Terra Mare e un rifugio privato con piscina, architettura in pietra, camere tranquille e accoglienti spazi esterni."
   },
   "nav": {
     "rooms": "Camere",
@@ -17,7 +17,7 @@
   },
   "hero": {
     "eyebrow": "Villa privata con piscina",
-    "title": "Casa Terra Marre",
+    "title": "Casa Terra Mare",
     "copy": "Una casa in pietra accogliente per mattine lente, pomeriggi in piscina e notti riposanti.",
     "primary": "Prenota il soggiorno",
     "secondary": "Vedi galleria",
@@ -27,7 +27,7 @@
   "intro": {
     "eyebrow": "Benvenuti",
     "title": "Un rifugio tranquillo per stare insieme, riposare e godersi l'acqua.",
-    "copy": "Casa Terra Marre unisce interni luminosi, una piscina privata, camere silenziose e angoli all'aperto per colazioni, conversazioni e lunghe serate."
+    "copy": "Casa Terra Mare unisce interni luminosi, una piscina privata, camere silenziose e angoli all'aperto per colazioni, conversazioni e lunghe serate."
   },
   "rooms": {
     "eyebrow": "Soggiorna con noi",
@@ -74,7 +74,7 @@
   "quote": {
     "eyebrow": "Nota ospite",
     "text": "\"Una casa tranquilla con tutto a portata di mano: piscina, camere, cucina e angoli soleggiati dove sedersi.\"",
-    "author": "Ospite Casa Terra Marre"
+    "author": "Ospite Casa Terra Mare"
   },
   "services": {
     "eyebrow": "Comfort inclusi",
@@ -110,7 +110,7 @@
   },
   "booking": {
     "eyebrow": "Organizza il soggiorno",
-    "title": "Prenota il tuo rifugio privato a Casa Terra Marre.",
+    "title": "Prenota il tuo rifugio privato a Casa Terra Mare.",
     "copy": "Invia le date e il numero di ospiti. Ti aiuteremo a organizzare un soggiorno rilassato intorno alla piscina.",
     "button": "Richiedi prenotazione"
   },
@@ -132,27 +132,27 @@
     "explore": "Esplora",
     "location": "Posizione",
     "mapLink": "Apri in Google Maps",
-    "mapTitle": "Casa Terra Marre vicino a Dar Allouche Beach"
+    "mapTitle": "Casa Terra Mare vicino a Dar Allouche Beach"
   },
   "images": {
-    "poolFacade": "Facciata in pietra e piscina di Casa Terra Marre",
-    "bedroom": "Camera confortevole a Casa Terra Marre",
-    "interior": "Dettagli interni di Casa Terra Marre",
+    "poolFacade": "Facciata in pietra e piscina di Casa Terra Mare",
+    "bedroom": "Camera confortevole a Casa Terra Mare",
+    "interior": "Dettagli interni di Casa Terra Mare",
     "mainBedroom": "Camera principale con letto matrimoniale",
     "kitchen": "Cucina e zona pranzo",
-    "guestRoom": "Camera ospiti a Casa Terra Marre",
+    "guestRoom": "Camera ospiti a Casa Terra Mare",
     "poolView": "Vista piscina",
     "outdoor": "Area salotto esterna",
     "detail": "Dettaglio interno",
-    "relax": "Angolo relax a Casa Terra Marre",
-    "booking": "Vista esterna di Casa Terra Marre",
-    "gallery1": "Immagine galleria Casa Terra Marre 1",
-    "gallery2": "Immagine galleria Casa Terra Marre 2",
-    "gallery3": "Immagine galleria Casa Terra Marre 3",
-    "gallery4": "Immagine galleria Casa Terra Marre 4",
-    "gallery5": "Immagine galleria Casa Terra Marre 5",
-    "gallery6": "Immagine galleria Casa Terra Marre 6",
-    "gallery7": "Immagine galleria Casa Terra Marre 7",
-    "gallery8": "Immagine galleria Casa Terra Marre 8"
+    "relax": "Angolo relax a Casa Terra Mare",
+    "booking": "Vista esterna di Casa Terra Mare",
+    "gallery1": "Immagine galleria Casa Terra Mare 1",
+    "gallery2": "Immagine galleria Casa Terra Mare 2",
+    "gallery3": "Immagine galleria Casa Terra Mare 3",
+    "gallery4": "Immagine galleria Casa Terra Mare 4",
+    "gallery5": "Immagine galleria Casa Terra Mare 5",
+    "gallery6": "Immagine galleria Casa Terra Mare 6",
+    "gallery7": "Immagine galleria Casa Terra Mare 7",
+    "gallery8": "Immagine galleria Casa Terra Mare 8"
   }
 }

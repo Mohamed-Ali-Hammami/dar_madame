@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Casa Terra Marre | Sejour prive avec piscine",
-    "description": "Casa Terra Marre est une retraite privee avec piscine, architecture en pierre, chambres calmes et espaces exterieurs chaleureux."
+    "title": "Casa Terra Mare | Sejour prive avec piscine",
+    "description": "Casa Terra Mare est une retraite privee avec piscine, architecture en pierre, chambres calmes et espaces exterieurs chaleureux."
   },
   "nav": {
     "rooms": "Chambres",
@@ -17,7 +17,7 @@
   },
   "hero": {
     "eyebrow": "Villa privee avec piscine",
-    "title": "Casa Terra Marre",
+    "title": "Casa Terra Mare",
     "copy": "Une maison en pierre chaleureuse pour les matins tranquilles, les apres-midis au bord de la piscine et les nuits reposantes.",
     "primary": "Reserver votre sejour",
     "secondary": "Voir la galerie",
@@ -27,7 +27,7 @@
   "intro": {
     "eyebrow": "Bienvenue",
     "title": "Une retraite calme pour se reunir, se reposer et profiter de l'eau.",
-    "copy": "Casa Terra Marre rassemble des interieurs lumineux, une piscine privee, des chambres paisibles et des coins exterieurs pour le petit-dejeuner, les conversations et les longues soirees."
+    "copy": "Casa Terra Mare rassemble des interieurs lumineux, une piscine privee, des chambres paisibles et des coins exterieurs pour le petit-dejeuner, les conversations et les longues soirees."
   },
   "rooms": {
     "eyebrow": "Sejourner chez nous",
@@ -74,7 +74,7 @@
   "quote": {
     "eyebrow": "Avis client",
     "text": "\"Une maison paisible ou tout est a portee de main : la piscine, les chambres, la cuisine et les coins ensoleilles pour s'asseoir.\"",
-    "author": "Client Casa Terra Marre"
+    "author": "Client Casa Terra Mare"
   },
   "services": {
     "eyebrow": "Confort inclus",
@@ -110,7 +110,7 @@
   },
   "booking": {
     "eyebrow": "Planifier votre sejour",
-    "title": "Reservez votre retraite privee a Casa Terra Marre.",
+    "title": "Reservez votre retraite privee a Casa Terra Mare.",
     "copy": "Envoyez vos dates et la taille de votre groupe. Nous vous aiderons a organiser un sejour detendu autour de la piscine.",
     "button": "Demander une reservation"
   },
@@ -132,27 +132,27 @@
     "explore": "Explorer",
     "location": "Localisation",
     "mapLink": "Ouvrir dans Google Maps",
-    "mapTitle": "Casa Terra Marre pres de Dar Allouche Beach"
+    "mapTitle": "Casa Terra Mare pres de Dar Allouche Beach"
   },
   "images": {
-    "poolFacade": "Facade en pierre et piscine de Casa Terra Marre",
-    "bedroom": "Chambre confortable a Casa Terra Marre",
-    "interior": "Details interieurs de Casa Terra Marre",
+    "poolFacade": "Facade en pierre et piscine de Casa Terra Mare",
+    "bedroom": "Chambre confortable a Casa Terra Mare",
+    "interior": "Details interieurs de Casa Terra Mare",
     "mainBedroom": "Chambre principale avec lit double",
     "kitchen": "Cuisine et salle a manger",
-    "guestRoom": "Chambre invite a Casa Terra Marre",
+    "guestRoom": "Chambre invite a Casa Terra Mare",
     "poolView": "Vue de la piscine",
     "outdoor": "Espace salon exterieur",
     "detail": "Detail interieur",
-    "relax": "Coin detente a Casa Terra Marre",
-    "booking": "Vue exterieure de Casa Terra Marre",
-    "gallery1": "Image galerie Casa Terra Marre 1",
-    "gallery2": "Image galerie Casa Terra Marre 2",
-    "gallery3": "Image galerie Casa Terra Marre 3",
-    "gallery4": "Image galerie Casa Terra Marre 4",
-    "gallery5": "Image galerie Casa Terra Marre 5",
-    "gallery6": "Image galerie Casa Terra Marre 6",
-    "gallery7": "Image galerie Casa Terra Marre 7",
-    "gallery8": "Image galerie Casa Terra Marre 8"
+    "relax": "Coin detente a Casa Terra Mare",
+    "booking": "Vue exterieure de Casa Terra Mare",
+    "gallery1": "Image galerie Casa Terra Mare 1",
+    "gallery2": "Image galerie Casa Terra Mare 2",
+    "gallery3": "Image galerie Casa Terra Mare 3",
+    "gallery4": "Image galerie Casa Terra Mare 4",
+    "gallery5": "Image galerie Casa Terra Mare 5",
+    "gallery6": "Image galerie Casa Terra Mare 6",
+    "gallery7": "Image galerie Casa Terra Mare 7",
+    "gallery8": "Image galerie Casa Terra Mare 8"
   }
 }

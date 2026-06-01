@@ -76,7 +76,7 @@ const loadLanguage = async (language) => {
 
     const translations = await response.json();
     applyTranslations(translations, nextLanguage);
-    localStorage.setItem("casaTerraMarreLanguage", nextLanguage);
+    localStorage.setItem("casaTerraMareLanguage", nextLanguage);
     languageSelect.value = nextLanguage;
   } catch (error) {
     console.warn(error);
@@ -132,4 +132,4 @@ languageSelect.addEventListener("change", (event) => {
   closeNav();
 });
 
-loadLanguage(localStorage.getItem("casaTerraMarreLanguage") || DEFAULT_LANGUAGE);
+loadLanguage(localStorage.getItem("casaTerraMareLanguage") || DEFAULT_LANGUAGE);

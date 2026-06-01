@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Casa Terra Marre | Privater Aufenthalt mit Pool",
-    "description": "Casa Terra Marre ist ein privater Rueckzugsort mit Pool, warmer Steinarchitektur, ruhigen Zimmern und grosszuegigen Aussenbereichen."
+    "title": "Casa Terra Mare | Privater Aufenthalt mit Pool",
+    "description": "Casa Terra Mare ist ein privater Rueckzugsort mit Pool, warmer Steinarchitektur, ruhigen Zimmern und grosszuegigen Aussenbereichen."
   },
   "nav": {
     "rooms": "Zimmer",
@@ -17,7 +17,7 @@
   },
   "hero": {
     "eyebrow": "Private Villa mit Pool",
-    "title": "Casa Terra Marre",
+    "title": "Casa Terra Mare",
     "copy": "Ein warmes Steinhaus fuer ruhige Morgen, Nachmittage am Pool und erholsame Naechte.",
     "primary": "Aufenthalt buchen",
     "secondary": "Galerie ansehen",
@@ -27,7 +27,7 @@
   "intro": {
     "eyebrow": "Willkommen",
     "title": "Ein ruhiger Rueckzugsort zum Zusammensein, Ausruhen und Geniessen des Wassers.",
-    "copy": "Casa Terra Marre verbindet helle Innenraeume, einen privaten Pool, ruhige Schlafzimmer und Aussenbereiche fuer Fruehstueck, Gespraeche und lange Abende."
+    "copy": "Casa Terra Mare verbindet helle Innenraeume, einen privaten Pool, ruhige Schlafzimmer und Aussenbereiche fuer Fruehstueck, Gespraeche und lange Abende."
   },
   "rooms": {
     "eyebrow": "Bei uns wohnen",
@@ -74,7 +74,7 @@
   "quote": {
     "eyebrow": "Gaestenotiz",
     "text": "\"Ein friedliches Haus, in dem alles nah ist: Pool, Zimmer, Kueche und sonnige Plaetze zum Sitzen.\"",
-    "author": "Gast von Casa Terra Marre"
+    "author": "Gast von Casa Terra Mare"
   },
   "services": {
     "eyebrow": "Inklusive Komforts",
@@ -110,7 +110,7 @@
   },
   "booking": {
     "eyebrow": "Aufenthalt planen",
-    "title": "Reservieren Sie Ihren privaten Rueckzugsort im Casa Terra Marre.",
+    "title": "Reservieren Sie Ihren privaten Rueckzugsort im Casa Terra Mare.",
     "copy": "Senden Sie uns Ihre Daten und die Gruppengroesse. Wir helfen Ihnen, einen entspannten Aufenthalt am Pool zu planen.",
     "button": "Buchung anfragen"
   },
@@ -132,27 +132,27 @@
     "explore": "Entdecken",
     "location": "Standort",
     "mapLink": "In Google Maps oeffnen",
-    "mapTitle": "Casa Terra Marre nahe Dar Allouche Beach"
+    "mapTitle": "Casa Terra Mare nahe Dar Allouche Beach"
   },
   "images": {
-    "poolFacade": "Steinfassade und Pool von Casa Terra Marre",
-    "bedroom": "Komfortables Schlafzimmer im Casa Terra Marre",
-    "interior": "Innendetails im Casa Terra Marre",
+    "poolFacade": "Steinfassade und Pool von Casa Terra Mare",
+    "bedroom": "Komfortables Schlafzimmer im Casa Terra Mare",
+    "interior": "Innendetails im Casa Terra Mare",
     "mainBedroom": "Hauptschlafzimmer mit Doppelbett",
     "kitchen": "Kueche und Essbereich",
-    "guestRoom": "Gaestezimmer im Casa Terra Marre",
+    "guestRoom": "Gaestezimmer im Casa Terra Mare",
     "poolView": "Blick auf den Pool",
     "outdoor": "Aussenbereich mit Sitzplatz",
     "detail": "Innendetail",
-    "relax": "Entspannungsecke im Casa Terra Marre",
-    "booking": "Aussenansicht von Casa Terra Marre",
-    "gallery1": "Galeriebild Casa Terra Marre 1",
-    "gallery2": "Galeriebild Casa Terra Marre 2",
-    "gallery3": "Galeriebild Casa Terra Marre 3",
-    "gallery4": "Galeriebild Casa Terra Marre 4",
-    "gallery5": "Galeriebild Casa Terra Marre 5",
-    "gallery6": "Galeriebild Casa Terra Marre 6",
-    "gallery7": "Galeriebild Casa Terra Marre 7",
-    "gallery8": "Galeriebild Casa Terra Marre 8"
+    "relax": "Entspannungsecke im Casa Terra Mare",
+    "booking": "Aussenansicht von Casa Terra Mare",
+    "gallery1": "Galeriebild Casa Terra Mare 1",
+    "gallery2": "Galeriebild Casa Terra Mare 2",
+    "gallery3": "Galeriebild Casa Terra Mare 3",
+    "gallery4": "Galeriebild Casa Terra Mare 4",
+    "gallery5": "Galeriebild Casa Terra Mare 5",
+    "gallery6": "Galeriebild Casa Terra Mare 6",
+    "gallery7": "Galeriebild Casa Terra Mare 7",
+    "gallery8": "Galeriebild Casa Terra Mare 8"
   }
 }
