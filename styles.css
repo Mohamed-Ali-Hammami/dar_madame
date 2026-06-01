@@ -726,6 +726,15 @@ blockquote {
   font-weight: 800;
 }
 
+.airbnb-icon {
+  border-radius: 50%;
+  background: #ff385c;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+}
+
 .instagram-icon {
   position: relative;
   border: 4px solid #d7358a;
