@@ -106,7 +106,9 @@
   },
   "gallery": {
     "eyebrow": "Regarder autour",
-    "title": "Galerie"
+    "title": "Galerie",
+    "previous": "Image precedente",
+    "next": "Image suivante"
   },
   "booking": {
     "eyebrow": "Planifier votre sejour",
@@ -126,6 +128,13 @@
     "instagram": "Instagram",
     "facebook": "Facebook",
     "close": "Fermer"
+  },
+  "whatsappModal": {
+    "eyebrow": "WhatsApp",
+    "title": "Choisissez un hote",
+    "copy": "Pour une reponse rapide, contactez l'un de nos hotes directement sur WhatsApp.",
+    "host1": "Hote 1",
+    "host2": "Hote 2"
   },
   "footer": {
     "copy": "Retraite privee avec piscine, chambres chaleureuses et vie exterieure.",
@@ -154,6 +163,15 @@
     "gallery5": "Image galerie Casa Terra Mare 5",
     "gallery6": "Image galerie Casa Terra Mare 6",
     "gallery7": "Image galerie Casa Terra Mare 7",
-    "gallery8": "Image galerie Casa Terra Mare 8"
+    "gallery8": "Image galerie Casa Terra Mare 8",
+    "gallery9": "Image galerie Casa Terra Mare 9",
+    "gallery10": "Image galerie Casa Terra Mare 10",
+    "gallery11": "Image galerie Casa Terra Mare 11",
+    "gallery12": "Image galerie Casa Terra Mare 12",
+    "gallery13": "Image galerie Casa Terra Mare 13",
+    "gallery14": "Image galerie Casa Terra Mare 14",
+    "gallery15": "Image galerie Casa Terra Mare 15",
+    "gallery16": "Image galerie Casa Terra Mare 16",
+    "gallery17": "Image galerie Casa Terra Mare 17"
   }
 }

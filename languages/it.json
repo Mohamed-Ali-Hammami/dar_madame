@@ -106,7 +106,9 @@
   },
   "gallery": {
     "eyebrow": "Guarda intorno",
-    "title": "Galleria"
+    "title": "Galleria",
+    "previous": "Immagine precedente",
+    "next": "Immagine successiva"
   },
   "booking": {
     "eyebrow": "Organizza il soggiorno",
@@ -126,6 +128,13 @@
     "instagram": "Instagram",
     "facebook": "Facebook",
     "close": "Chiudi"
+  },
+  "whatsappModal": {
+    "eyebrow": "WhatsApp",
+    "title": "Scegli un host",
+    "copy": "Per una risposta piu rapida, contatta direttamente uno dei nostri host su WhatsApp.",
+    "host1": "Host 1",
+    "host2": "Host 2"
   },
   "footer": {
     "copy": "Rifugio privato con piscina, camere accoglienti e vita all'aperto.",
@@ -154,6 +163,15 @@
     "gallery5": "Immagine galleria Casa Terra Mare 5",
     "gallery6": "Immagine galleria Casa Terra Mare 6",
     "gallery7": "Immagine galleria Casa Terra Mare 7",
-    "gallery8": "Immagine galleria Casa Terra Mare 8"
+    "gallery8": "Immagine galleria Casa Terra Mare 8",
+    "gallery9": "Immagine galleria Casa Terra Mare 9",
+    "gallery10": "Immagine galleria Casa Terra Mare 10",
+    "gallery11": "Immagine galleria Casa Terra Mare 11",
+    "gallery12": "Immagine galleria Casa Terra Mare 12",
+    "gallery13": "Immagine galleria Casa Terra Mare 13",
+    "gallery14": "Immagine galleria Casa Terra Mare 14",
+    "gallery15": "Immagine galleria Casa Terra Mare 15",
+    "gallery16": "Immagine galleria Casa Terra Mare 16",
+    "gallery17": "Immagine galleria Casa Terra Mare 17"
   }
 }

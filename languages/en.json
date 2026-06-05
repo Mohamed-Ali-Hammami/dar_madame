@@ -106,7 +106,9 @@
   },
   "gallery": {
     "eyebrow": "Look around",
-    "title": "Gallery"
+    "title": "Gallery",
+    "previous": "Previous image",
+    "next": "Next image"
   },
   "booking": {
     "eyebrow": "Plan your stay",
@@ -126,6 +128,13 @@
     "instagram": "Instagram",
     "facebook": "Facebook",
     "close": "Close"
+  },
+  "whatsappModal": {
+    "eyebrow": "WhatsApp",
+    "title": "Choose a host",
+    "copy": "For a faster reply, contact one of our hosts directly on WhatsApp.",
+    "host1": "Host 1",
+    "host2": "Host 2"
   },
   "footer": {
     "copy": "Private pool retreat with warm rooms and outdoor living.",
@@ -154,6 +163,15 @@
     "gallery5": "Casa Terra Mare gallery image 5",
     "gallery6": "Casa Terra Mare gallery image 6",
     "gallery7": "Casa Terra Mare gallery image 7",
-    "gallery8": "Casa Terra Mare gallery image 8"
+    "gallery8": "Casa Terra Mare gallery image 8",
+    "gallery9": "Casa Terra Mare gallery image 9",
+    "gallery10": "Casa Terra Mare gallery image 10",
+    "gallery11": "Casa Terra Mare gallery image 11",
+    "gallery12": "Casa Terra Mare gallery image 12",
+    "gallery13": "Casa Terra Mare gallery image 13",
+    "gallery14": "Casa Terra Mare gallery image 14",
+    "gallery15": "Casa Terra Mare gallery image 15",
+    "gallery16": "Casa Terra Mare gallery image 16",
+    "gallery17": "Casa Terra Mare gallery image 17"
   }
 }

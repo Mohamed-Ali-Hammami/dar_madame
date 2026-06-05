@@ -106,7 +106,9 @@
   },
   "gallery": {
     "eyebrow": "Umschauen",
-    "title": "Galerie"
+    "title": "Galerie",
+    "previous": "Vorheriges Bild",
+    "next": "Naechstes Bild"
   },
   "booking": {
     "eyebrow": "Aufenthalt planen",
@@ -126,6 +128,13 @@
     "instagram": "Instagram",
     "facebook": "Facebook",
     "close": "Schliessen"
+  },
+  "whatsappModal": {
+    "eyebrow": "WhatsApp",
+    "title": "Waehlen Sie einen Gastgeber",
+    "copy": "Fuer eine schnellere Antwort kontaktieren Sie einen unserer Gastgeber direkt ueber WhatsApp.",
+    "host1": "Gastgeber 1",
+    "host2": "Gastgeber 2"
   },
   "footer": {
     "copy": "Privater Rueckzugsort mit Pool, warmen Zimmern und Leben im Freien.",
@@ -154,6 +163,15 @@
     "gallery5": "Galeriebild Casa Terra Mare 5",
     "gallery6": "Galeriebild Casa Terra Mare 6",
     "gallery7": "Galeriebild Casa Terra Mare 7",
-    "gallery8": "Galeriebild Casa Terra Mare 8"
+    "gallery8": "Galeriebild Casa Terra Mare 8",
+    "gallery9": "Galeriebild Casa Terra Mare 9",
+    "gallery10": "Galeriebild Casa Terra Mare 10",
+    "gallery11": "Galeriebild Casa Terra Mare 11",
+    "gallery12": "Galeriebild Casa Terra Mare 12",
+    "gallery13": "Galeriebild Casa Terra Mare 13",
+    "gallery14": "Galeriebild Casa Terra Mare 14",
+    "gallery15": "Galeriebild Casa Terra Mare 15",
+    "gallery16": "Galeriebild Casa Terra Mare 16",
+    "gallery17": "Galeriebild Casa Terra Mare 17"
   }
 }

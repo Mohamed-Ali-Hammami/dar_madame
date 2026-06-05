@@ -210,6 +210,15 @@
         <img src="dar_madame_img/img_16.jpeg" alt="Image galerie Casa Terra Mare 6" data-i18n-attr="alt:images.gallery6">
         <img src="dar_madame_img/img_17.jpeg" alt="Image galerie Casa Terra Mare 7" data-i18n-attr="alt:images.gallery7">
         <img src="dar_madame_img/img_18.jpeg" alt="Image galerie Casa Terra Mare 8" data-i18n-attr="alt:images.gallery8">
+        <img src="dar_madame_img/img_22.jpeg" alt="Image galerie Casa Terra Mare 9" data-i18n-attr="alt:images.gallery9">
+        <img src="dar_madame_img/img_23.jpeg" alt="Image galerie Casa Terra Mare 10" data-i18n-attr="alt:images.gallery10">
+        <img src="dar_madame_img/img_24.jpeg" alt="Image galerie Casa Terra Mare 11" data-i18n-attr="alt:images.gallery11">
+        <img src="dar_madame_img/img_25.jpeg" alt="Image galerie Casa Terra Mare 12" data-i18n-attr="alt:images.gallery12">
+        <img src="dar_madame_img/img_26.jpeg" alt="Image galerie Casa Terra Mare 13" data-i18n-attr="alt:images.gallery13">
+        <img src="dar_madame_img/img_27.jpeg" alt="Image galerie Casa Terra Mare 14" data-i18n-attr="alt:images.gallery14">
+        <img src="dar_madame_img/img_28.jpeg" alt="Image galerie Casa Terra Mare 15" data-i18n-attr="alt:images.gallery15">
+        <img src="dar_madame_img/img_29.jpeg" alt="Image galerie Casa Terra Mare 16" data-i18n-attr="alt:images.gallery16">
+        <img src="dar_madame_img/img_30.jpeg" alt="Image galerie Casa Terra Mare 17" data-i18n-attr="alt:images.gallery17">
       </div>
     </section>
 
@@ -259,11 +268,11 @@
       <h2 id="booking-modal-title" data-i18n="bookingModal.title">Choisissez comment nous contacter</h2>
       <p data-i18n="bookingModal.copy">Pour une reponse rapide, contactez-nous de preference sur WhatsApp ou par email. Vous pouvez aussi nous ecrire sur Instagram ou Facebook.</p>
       <div class="booking-socials">
-        <a class="social-book preferred-book whatsapp-book" href="https://wa.me/21626443071?text=Bonjour%2C%20je%20souhaite%20reserver%20Casa%20Terra%20Mare." target="_blank" rel="noopener" data-booking-close>
+        <button class="social-book preferred-book whatsapp-book" type="button" data-whatsapp-trigger>
           <span class="preferred-label" data-i18n="bookingModal.fast">Reponse rapide</span>
           <span class="social-icon whatsapp-icon" aria-hidden="true">☎</span>
           <strong data-i18n="bookingModal.whatsapp">WhatsApp</strong>
-        </a>
+        </button>
         <a class="social-book preferred-book email-book" href="mailto:rimrima9510@gmail.com?subject=Reservation%20Casa%20Terra%20Mare&body=Bonjour%2C%0AJe%20souhaite%20reserver%20Casa%20Terra%20Mare.%0ADates%20souhaitees%20%3A%0ANombre%20de%20personnes%20%3A%0AMerci." data-booking-close>
           <span class="preferred-label" data-i18n="bookingModal.recommended">Recommande</span>
           <span class="social-icon email-icon" aria-hidden="true">@</span>
@@ -285,6 +294,36 @@
         </a>
       </div>
     </div>
+  </div>
+
+  <div class="whatsapp-modal" role="dialog" aria-modal="true" aria-labelledby="whatsapp-modal-title" hidden data-whatsapp-modal>
+    <div class="booking-modal-backdrop" data-whatsapp-close></div>
+    <div class="booking-modal-panel contact-choice-panel">
+      <button class="booking-modal-close" type="button" aria-label="Fermer" data-whatsapp-close data-i18n-attr="aria-label:bookingModal.close">&times;</button>
+      <p class="eyebrow" data-i18n="whatsappModal.eyebrow">WhatsApp</p>
+      <h2 id="whatsapp-modal-title" data-i18n="whatsappModal.title">Choisissez un hote</h2>
+      <p data-i18n="whatsappModal.copy">Pour une reponse rapide, contactez l'un de nos hotes directement sur WhatsApp.</p>
+      <div class="host-options">
+        <a class="host-option" href="https://wa.me/33629375894?text=Bonjour%2C%20je%20souhaite%20reserver%20Casa%20Terra%20Mare." target="_blank" rel="noopener" data-whatsapp-close>
+          <strong data-i18n="whatsappModal.host1">Hote 1</strong>
+          <span>+33 629 375 894</span>
+        </a>
+        <a class="host-option" href="https://wa.me/21626443071?text=Bonjour%2C%20je%20souhaite%20reserver%20Casa%20Terra%20Mare." target="_blank" rel="noopener" data-whatsapp-close>
+          <strong data-i18n="whatsappModal.host2">Hote 2</strong>
+          <span>+216 26 443 071</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="gallery-lightbox" role="dialog" aria-modal="true" aria-label="Galerie" hidden data-gallery-lightbox data-i18n-attr="aria-label:gallery.title">
+    <button class="lightbox-close" type="button" aria-label="Fermer" data-lightbox-close data-i18n-attr="aria-label:bookingModal.close">&times;</button>
+    <button class="lightbox-nav lightbox-prev" type="button" aria-label="Image precedente" data-lightbox-prev data-i18n-attr="aria-label:gallery.previous">&lsaquo;</button>
+    <figure class="lightbox-figure">
+      <img src="dar_madame_img/img_19.jpeg" alt="" data-lightbox-image>
+      <figcaption data-lightbox-count>1 / 17</figcaption>
+    </figure>
+    <button class="lightbox-nav lightbox-next" type="button" aria-label="Image suivante" data-lightbox-next data-i18n-attr="aria-label:gallery.next">&rsaquo;</button>
   </div>
 
   <script src="script.js"></script>
